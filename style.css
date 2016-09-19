@@ -1,0 +1,7 @@
+body {
+  background-color: pink;
+}
+
+li.removed {
+  text-decoration: line-through;
+}
